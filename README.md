@@ -25,8 +25,8 @@ Fitur:
 ## 2. Instalasi
 ```bash
 pkg install -y git
-git clone https://github.com/vpn-nusantara/FLASH-ZTE-MF90-
-cd FLASH-ZTE-MF90-
+git clone https://github.com/vpn-nusantara/FLASH-ZTE-MF90
+cd FLASH-ZTE-MF90
 bash install.sh
 ```
 Installer memasang: `termux-api`, `termux-adb` + `termux-fastboot` (ADB/Fastboot via OTG tanpa root), tool `edl` (bkerler), alat ekstrak, dan perintah `mf90`.
