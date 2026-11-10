@@ -25,7 +25,7 @@ Fitur:
 ## 2. Instalasi
 ```bash
 pkg install -y git
-git clone https://github.com/vpn-nusantara/FLASH-ZTE-MF90
+git clone https://github.com/vpn-nusantara/FLASH-ZTE-MF90.git
 cd FLASH-ZTE-MF90
 bash install.sh
 ```
